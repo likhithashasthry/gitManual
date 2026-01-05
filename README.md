@@ -1,1 +1,1 @@
-git hub manual
+changes made to apply stash
